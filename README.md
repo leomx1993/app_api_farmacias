@@ -1,4 +1,4 @@
-*Obs:Baixar arquivo readme para melhor viualização
+*Obs: Baixar arquivo readme para melhor viualização da estrutura
 
 # app_api_farmacias
 API de consulta de Pacientes, Farmácias e Transações: Uma API em Python usando FastAPI e SQLite para visualizar e filtrar dados de pacientes, farmácias e transações. A API também dispõem de token de segurança para autenticação de usuários.
