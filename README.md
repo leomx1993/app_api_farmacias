@@ -11,7 +11,7 @@ app
 │   └── models.py -> (modelos/schemas) para os dados do banco
 ├── filters.py -> (filtros e sanitização para os endpoints)
 ├── main.py -> (endpoints)
-├── test_main.py -> (teste automático utilizando pytes)
+├── test_main.py -> (teste automático utilizando pytest)
 └── token_verification.py -> (lógica de geração e verifiação do token com usuário padrão)
 
 - Funcionalidades
@@ -99,6 +99,8 @@ Transactions:
 transaction_id (opcional): Filtra as transações pelo ID.
 patient_name (opcional): Filtra as transações pelo nome do paciente.
 patient_id (opcional): Filtra os pacientes pelo ID.
+	
+O arquivo test_main.py permite que os enpoints sejam testados automaticamente fazendo primeiro o test do enpoind de autenticação e depois dos outros três por meio do comando pytest.
   
   
 
