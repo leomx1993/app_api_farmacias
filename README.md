@@ -38,7 +38,7 @@ Banco de dados SQLite
 -Uso
 
 1 - Após iniciar o servidor com uvicorn, acesse a URL http://localhost:8000/auth para obter o token de acesso. Utilizando por exemplo o software Insomnia, 
-pasta enviar no body da requisição POST o seguinte Json com um usuário padrão: 
+basta enviar no body da requisição POST o seguinte Json com um usuário padrão: 
 
 {
   "username": "admin",
