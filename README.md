@@ -84,21 +84,21 @@ Os endpoints possuem os seguintes filtros:
   
 Patients: 
   
-patient_name (opcional): Filtra os pacientes pelo nome.
-patient_last_name (opcional): Filtra os pacientes pelo sobrenome.
-patient_id (opcional): Filtra os pacientes pelo ID.
+- patient_name (opcional): Filtra os pacientes pelo nome.
+- patient_last_name (opcional): Filtra os pacientes pelo sobrenome.
+- patient_id (opcional): Filtra os pacientes pelo ID.
   
 Pharmacies:
 
-pharmacy_name (opcional): Filtra as farmácias pelo nome.
-pharmacy_id (opcional): Filtra as farmácias pelo ID.
-pharmacy_city (opcional): Filtra as farmácias pela cidade.
+- pharmacy_name (opcional): Filtra as farmácias pelo nome.
+- pharmacy_id (opcional): Filtra as farmácias pelo ID.
+- pharmacy_city (opcional): Filtra as farmácias pela cidade.
   
 Transactions: 
   
-transaction_id (opcional): Filtra as transações pelo ID.
-patient_name (opcional): Filtra as transações pelo nome do paciente.
-patient_id (opcional): Filtra os pacientes pelo ID.
+- transaction_id (opcional): Filtra as transações pelo ID.
+- patient_name (opcional): Filtra as transações pelo nome do paciente.
+- patient_id (opcional): Filtra os pacientes pelo ID.
 	
 O arquivo test_main.py permite que os enpoints sejam testados automaticamente fazendo primeiro o test do enpoind de autenticação e depois dos outros três por meio do comando pytest.
   
