@@ -88,7 +88,7 @@ patient_name (opcional): Filtra os pacientes pelo nome.
 patient_last_name (opcional): Filtra os pacientes pelo sobrenome.
 patient_id (opcional): Filtra os pacientes pelo ID.
   
-Pharmacies: pharmacy_name, pharmacy_id, pharmacy_city
+Pharmacies:
 
 pharmacy_name (opcional): Filtra as farmácias pelo nome.
 pharmacy_id (opcional): Filtra as farmácias pelo ID.
