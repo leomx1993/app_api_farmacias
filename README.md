@@ -1,6 +1,6 @@
 *Obs: Baixar arquivo readme para melhor viualização da estrutura
 
-- Vídeo demonstrando funcionamento (clicando no link, a qualidade fica 720p)
+- Vídeo demonstrando funcionamento 
 
 Link: https://www.loom.com/share/faef022750b14cebac199a36801d3896?sid=a1f8ac6d-7478-4401-93ab-4c88c4ac4d73
 
