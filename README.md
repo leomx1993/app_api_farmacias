@@ -1,5 +1,9 @@
 *Obs: Baixar arquivo readme para melhor viualização da estrutura
 
+- Vídeo demonstrano funcionamento
+
+Link: https://www.loom.com/share/faef022750b14cebac199a36801d3896?sid=a1f8ac6d-7478-4401-93ab-4c88c4ac4d73
+
 # app_api_farmacias
 API de consulta de Pacientes, Farmácias e Transações: Uma API em Python usando FastAPI e SQLite para visualizar e filtrar dados de pacientes, farmácias e transações. A API também dispõem de token de segurança para autenticação de usuários.
 
